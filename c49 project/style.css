@@ -1,0 +1,51 @@
+.font{
+    font-family: "w3-cursive";
+    color: purple;
+}
+
+
+.header{
+    display: flex;
+    justify-content:space-around;
+    background-color: #000000;
+    padding: 15px;
+    font-family: serif;
+    color: purple;
+}
+
+.footer{
+    background-color:lavender;
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+h3{
+    color:white;
+}
+
+body{
+    margin: 0px;
+    background-color: #f7f2f2;
+}
+
+a:link{
+    color: rgb(141, 56, 71);
+}
+
+a:visited{
+    color: rgb(209, 45, 72);
+}
+
+
+.origami:hover{
+    opacity: 0.5;
+}
+
+.header p{
+    position: relative;
+    top:10%;
+    left:- 5%;
+    bottom: 30%;
+    
+  
+}
